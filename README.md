@@ -1,0 +1,1 @@
+This is the respository for the site MoreToSay.org, a brochure site with information about More To Say web development. 
